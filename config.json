@@ -174,3 +174,17 @@
 			]
 		}]
 	},
+ {
+		"title": "A propos",
+		"drawable": "",
+		"submenu": "autres",
+		"iap": false,
+		"tabs": [{
+			"title": "",
+			"provider": "custom",
+			"arguments": [
+				"com.knoozapps.myapp.kooraaramexx.SettingsFragment", "fragment"
+			]
+		}]
+	}
+]
