@@ -1,4 +1,10 @@
-	{
+[{
+		"title": "ملخّصات و أهداف",
+		"drawable": "",
+		"submenu": "",
+		"iap": false,
+		"tabs": [
+{
 				"title": "ON Sport",
 				"provider": "youtube",
 				"arguments": [
@@ -151,7 +157,7 @@
 			"title": "webview",
 			"provider": "webview",
 			"arguments": [
-				"https://www.kooora2day.com/"
+				"https://aflam4you.tv/browse-films-videos-1-date.html/"
 			]
 		}]
 	},
@@ -164,7 +170,7 @@
 			"title": "webview",
 			"provider": "webview",
 			"arguments": [
-				"https://aflam4you.tv/browse-films-videos-1-date.html/"
+				"https://www.kooora2day.com//"
 			]
 		}]
 	},
