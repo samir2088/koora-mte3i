@@ -174,9 +174,22 @@
 			]
 		}]
 	},
- 
  {
 		"title": "رابط 5 مباشر",
+		"drawable": "",
+		"submenu": " تغطية لجلّ المباريات ",
+		"iap": false,
+		"tabs": [{
+			"title": "webview",
+			"provider": "webview",
+			"arguments": [
+				"http://www.kora-star.tv/"
+			]
+		}]
+	},
+ 
+ {
+		"title": "رابط 6 مباشر",
 		"drawable": "",
 		"submenu": "",
 		"iap": false,
