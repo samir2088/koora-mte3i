@@ -101,10 +101,10 @@
 			}, 
       
 			{
-				"title": "Europe",
+				"title": "YB FOOTBALL",
 				"provider": "youtube",
 				"arguments": [
-					"UC7C-kigODYM1DhEO14yKXAA",
+					"UC0itBxKas_OvtriER42csQQ",
 					"channel"
 
 				]
@@ -128,19 +128,20 @@
 				]
 			},
 			{
-				"title": "kooora",
+				"title": "Africa Champions",
 				"provider": "youtube",
 				"arguments": [
-					"UCJeSOWjupev0o3jOXMu9gTA",
+					"UCoBR0t1dgJj6hRbHASrmyFQ",
 					"channel"
 
 				]
 			},
 			{
-				"title": "أوروبا",
+			{
+				"title": "المحترفين المصريين",
 				"provider": "youtube",
 				"arguments": [
-					"UCzpNXaiimJMtw2Ntj3raULw",
+					"UCHEIO-7w6vgPHU2pTXP9rkA",
 					"channel"
 
 				]
